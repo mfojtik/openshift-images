@@ -1,0 +1,24 @@
+[submodule "sti-ruby"]
+	path = sti-ruby
+	url = https://github.com/openshift/sti-ruby
+[submodule "sti-python"]
+	path = sti-python
+	url = https://github.com/openshift/sti-python
+[submodule "sti-php"]
+	path = sti-php
+	url = https://github.com/openshift/sti-php
+[submodule "sti-nodejs"]
+	path = sti-nodejs
+	url = https://github.com/openshift/sti-nodejs
+[submodule "sti-perl"]
+	path = sti-perl
+	url = https://github.com/openshift/sti-perl
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/openshift/mysql
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/openshift/mongodb
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/openshift/postgresql
